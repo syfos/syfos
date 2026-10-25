@@ -1,18 +1,16 @@
 # Syfos
 
-To get this unique username (**syfos**) I had to think for days. It came after I saw a username ending with "fox". I binded **Sy** with **Fox** but it was taken so replaced **x** with **s**. 
-
-Basically this name stands for what I really want i.e creation of Foss Systems.
+Hey! I'm Syfos and creating free and opensource softwares and systems is one of my hobbies.
 
 # About Me
-
 - **Sex:** Male
 - **Born:** 2009
 - **Height:** 5'4" (162.6 cm)
 - **Ethnicity:** Indian
 - **Languages:** English, Hindi
-- **Orientation:** Bisexual
+- **Orientation:** Bisexual (Mood dependent)
 - **Poor:** Yes
+- **Vegiterian?:** Yes and also takes animal product.
 
 ## Interests
 - **Sales**
@@ -20,9 +18,10 @@ Basically this name stands for what I really want i.e creation of Foss Systems.
 - **unique creations depending on intrest**
 
 ## Personality
-- **Friendly?** Depends, mostly neutral
-- **Friends:** None right now
+- **Friendly?:** Depends, mostly neutral
+- **Friends:** None (Dislike to have any)
 - **Depressed:** Usually
 - **Isolated:** Yes!
 - **Everyday Feel?:** Stressing about why I didn't got privelages and other social things the way as others.
-- **Cynical?** Definitely!!!!!!
+- **Cynical?:** Definitely!!!!!!
+- **Atheist?:** Mood dependent.

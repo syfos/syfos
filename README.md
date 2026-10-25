@@ -1,43 +1,27 @@
-<p align="center">
-  <img src="https://github.com/ipude.png" width="150" style="border-radius: 50%;" />
-</p>
+# Syfos
 
-<h1 align="center">ipude</h1>
+To get this unique username (**syfos**) I had to think for days. It came after I saw a username ending with "fox". I binded **Sy** with **Fox** but it was taken so replaced **x** with **s**. 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/FOSS-Advocate-brightgreen" />
-</p>
+Basically this name stands for what I really want i.e creation of Foss Systems.
 
-<br>
+# About Me
 
-## About Me :
+- **Sex:** Male
+- **Born:** 2009
+- **Height:** 5'4" (162.6 cm)
+- **Ethnicity:** Indian
+- **Languages:** English, Hindi
+- **Orientation:** Bisexual
 
-I create FREE AND OPENSOURCE SOFTWARES and hate paid/ai one!
-I use [Purc](https://github.com/ipude/purc) as my NEOVIM config.
+## Interests
+1. **Sales**
+2. **finance**
+3. **unique creations**
 
-## Funfact about me:
+## Personality
+- **Friendly?** Depends, mostly neutral
+- **Friends:** None right now
 
-I dropped my scholling for programming and still sucks at python.
-SHHH!
-
-## I am learning about:
-
-1. Ai/Ml
-2. System programming
-3. Web dev
-
-
-## GitHub Stats 📊
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ipude&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipude&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ipude&hide_border=true" />
-</p>
-
-<p align="center">Create FOS SOFTWARES</p>
+## Right now
+- **Mood:** Mostly depressed
+- **Feelings about existing:** Hate it

@@ -25,3 +25,11 @@ Hey! I'm Syfos and creating free and opensource softwares and systems is one of 
 - **Everyday Feel?:** Stressing about why I didn't got privelages and other social things the way as others.
 - **Cynical?:** Definitely!!!!!!
 - **Atheist?:** Mood dependent.
+
+## Best books I suggest to read:
+
+- How to win friends and influence people in the society? -- Dale Carnegie.
+
+- How to stop worrying and Start Living? -- Dale Carnegie.
+
+- Atomic Habits.

@@ -12,16 +12,17 @@ Basically this name stands for what I really want i.e creation of Foss Systems.
 - **Ethnicity:** Indian
 - **Languages:** English, Hindi
 - **Orientation:** Bisexual
+- **Poor:** Yes
 
 ## Interests
-1. **Sales**
-2. **finance**
-3. **unique creations**
+- **Sales**
+- **finance**
+- **unique creations depending on intrest**
 
 ## Personality
 - **Friendly?** Depends, mostly neutral
 - **Friends:** None right now
-
-## Right now
-- **Mood:** Mostly depressed
-- **Feelings about existing:** Hate it
+- **Depressed:** Usually
+- **Isolated:** Yes!
+- **Everyday Feel?:** Stressing about why I didn't got privelages and other social things the way as others.
+- **Cynical?** Definitely!!!!!!
